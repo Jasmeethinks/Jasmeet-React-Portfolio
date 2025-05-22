@@ -22,7 +22,7 @@ export default function Project() {
       title: "Portfolio Website",
       description:
         "A modern portfolio website built with React and Tailwind CSS.",
-      link: "https://example.com",
+      link: "https://jasmeet-react-portfolio.vercel.app/",
       technologies: ["React", "Tailwind CSS", "Responsive Design"],
     },
     {
